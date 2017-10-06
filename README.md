@@ -1,5 +1,5 @@
 # SampleOpenCV
-Image processing in OpenCV.
+Image processing in OpenCV.  
 グレースケールやガウシアンぼかし、カラーヒストグラムなどの画像処理ができます。
 
 
