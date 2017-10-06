@@ -1,6 +1,14 @@
 # SampleOpenCV
 Image processing in OpenCV.
+グレースケールやガウシアンぼかし、カラーヒストグラムなどの画像処理ができます。
 
 
 ## Programming language 
 Python 3.5
+
+
+## 使い方
+1. InputImageフォルダに処理したい画像ファイルを入れて下さい。
+2. ImageProcessing.pyの一番下の「# 画像処理」にある、画像処理したいコードのコメントアウトを外してください。
+3. InputImageフォルダに入れた画像の拡張子に合わせて「# パス設定」にあるinput_pathの値を変更してください。（デフォルトではpngになっています）
+4. ターミナルなどでファイルを実行してください。
