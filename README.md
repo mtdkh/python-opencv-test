@@ -1,4 +1,4 @@
-# python-sampleopencv
+# python-opencv-test
 
 ## Description
 Image processing in OpenCV  
