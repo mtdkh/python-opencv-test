@@ -1,13 +1,10 @@
 # python-opencv-test
 
 ## Description
-Image processing in OpenCV  
+グレースケールやガウシアンぼかし、カラーヒストグラムなどの画像処理ができます  
 
 ## Requirement
 * Python ver3.5
-
-## Features
-グレースケールやガウシアンぼかし、カラーヒストグラムなどの画像処理ができます  
 
 ## Usage
 1. InputImageフォルダに処理したい画像ファイルを入れて下さい
